@@ -65,9 +65,10 @@ gitalk:
   clientID: 2ac8009cd5100a0eea8b                            #生成的clientID
   clientSecret: d9f133c28b493e5f85c2043e3af92934f710a7b2    #生成的clientSecret
   repo: cechaodeng.github.io    #仓库名称
-  owner: dengcechao    #github用户名
+  owner: cechaodeng    #github用户名
   admin: dengcechao
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
+  id: 'window.location.pathname'
 
 
 # 统计
