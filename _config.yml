@@ -100,8 +100,8 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "ZZ",
-        href: "withzz.cn"
+        title: "zz乐园",
+        href: "https://withzz.cn/"
     },{
         title: "Apple",
         href: "https://apple.com"
