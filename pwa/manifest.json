@@ -3,11 +3,11 @@
   "short_name": "Kent Blog",
   "description": "A personal blog by java developer",
   "icons": [{
-    "src": "icons/pwa_icon_128.png",
+    "src": "icons/pwa_icon_128.jpg",
     "sizes": "128x128",
     "type": "image/png"
   }, {
-    "src": "icons/pwa_icon_512.png",
+    "src": "icons/pwa_icon_512.jpg",
     "sizes": "512x512",
     "type": "image/png"
   }],
