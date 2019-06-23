@@ -15,7 +15,7 @@ tags:
 
 ## 背景
 
-Spring Boot的配置文件读取文章有很多，但是每一篇文章总结起来都是在将一件事，就是优先级。
+Spring Boot的配置文件读取文章有很多，但是每一篇文章总结起来都是在讲一件事，优先级。
 你可能会看到如下片段：
 
 ![](https://i.loli.net/2019/06/22/5d0de5d34691784115.png)
@@ -31,8 +31,8 @@ Spring Boot的配置文件读取文章有很多，但是每一篇文章总结起
 ![](https://i.loli.net/2019/06/22/5d0de83e3606688492.png)
 
 我们在application.yml里面配置了spring.profiles.active:staging
-所以，根据对Spring Boot的常规里面，会先去读取application.yml，然后根据spring.profiles.active去读取application-staging.yml。
-于是就有了一下几个问题：
+所以，根据对Spring Boot的常规理解，会先去读取application.yml，然后根据spring.profiles.active去读取application-staging.yml。
+于是就有了以下几个问题：
 
 + 一、Spring Boot为什么会先去读取application.yml,application-staging.yml不是优先级更高吗？
 如果是先读application-staging.yml的，那Spring Boot怎么知道是staging,而不是uat？
