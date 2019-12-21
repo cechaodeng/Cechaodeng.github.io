@@ -4,7 +4,7 @@ SEOTitle: Kent Blog
 header-img: img/post-bg-desk.jpg
 email: cechao@163.com
 description: "Every failure is leading towards success."
-keyword: "Kent, Kent Blog, 策超的博客, dengcechao, 邓策超, Java, iPhone"
+keyword: "Kent, Kent Blog, dengcechao, Java"
 url: "http://cechaodeng.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/cechaodeng/cechaodeng.github.io.git" # you code repository
@@ -102,8 +102,5 @@ friends: [
     {
         title: "zz乐园",
         href: "https://withzz.cn/"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
     }
 ]
