@@ -15,7 +15,7 @@ tags:
 
 ## 打包原理
 
-1. 在pom.xml中配置<packaging>标签。
+1. 创建一个Spring boot应用，在pom.xml中配置<packaging>标签。
     ```
     <packaging>jar</packaging>
     ```
