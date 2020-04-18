@@ -4,7 +4,7 @@ title:      你不知道的spring boot命令行启动原理
 subtitle:   学习《spring boot编程思想》笔记
 date:       2020-04-18
 author:     Kent
-header-img: img/post-bg-500.jpeg
+header-img: img/post-bg-spring-boot-java-jar.jpg
 catalog: true
 tags:
     - spring boot
